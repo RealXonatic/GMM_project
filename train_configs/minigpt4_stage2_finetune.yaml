@@ -6,7 +6,7 @@ model:
   end_sym: "###"
   prompt_path: "prompts/alignment.txt"
   prompt_template: '###Human: {} ###Assistant: '
-  ckpt: '/path/to/prerained_minigpt4_7b.pth'
+  ckpt: '/data/jahegoul10/vicuna-7b/prerained_minigpt4_7b.pth'
 
 datasets:
   cc_sbu_align:

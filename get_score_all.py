@@ -3,7 +3,7 @@ all_name_list = ['vase', 'rugby_ball', 'starfish', 'scuba_diver', 'italian_greyh
 
 
 sults = '/root/siton-gpfs-caoxusheng/code/mini-CIL/results/imgr20_20_3e6_batch2_epoch2_order3_2000exp_re/'
-path_results = '/home/ubuntu/code/GMM_camera/GMM/results/imgr20_20_3e6_batch2_epoch2_order3_2000exp_re/'
+path_results = '/data/jahegoul10/GMM/minigpt4/results/'
 
 initial = 20
 increment = 20
